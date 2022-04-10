@@ -1,4 +1,4 @@
-# Neural Networks
+# Algorithmic Trading
 
 Module 14 Challenge
 
@@ -68,11 +68,8 @@ from sklearn.linear_model import LogisticRegression
   
 * Our newly predicted model was less accurate thus I would recommend we use the initial predictions as the baseline for more improvement in the future.
 
-Predicition 1  
-  [![challenge-output.png](https://i.postimg.cc/X7RPgyLq/challenge-output.png)](https://postimg.cc/BXCNSbdf)
-
-Predicition 2 
-[![challenge-output-2.png](https://i.postimg.cc/c1jks8Vh/challenge-output-2.png)](https://postimg.cc/s1Y4m1fG)
+Winner = Predicition 1  
+[![challenge-output.png](https://i.postimg.cc/X7RPgyLq/challenge-output.png)](https://postimg.cc/BXCNSbdf)
 
 ---
 
